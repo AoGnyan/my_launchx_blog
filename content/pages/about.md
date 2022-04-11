@@ -7,15 +7,17 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí puedes saber un poco más de mí:
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Friki de computadoras desde pequeña edad
+> Ex jugador profesional de osu y juegos arcade
+> Desarrollador Fullstack en proceso
+> Intento de cocinero profesional
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Estos son algunos puntos destacables de mi persona
+mi nombre como ya saben es Leonardo y tengo 25 años
+uno de mis hobbies más frecuentes es la lectura 
+y mantenerme físicamente en forma, mi genero de música
+preferido es el future funk y el acid funk, a veces veo anime
+pero ya no tanto.
 
