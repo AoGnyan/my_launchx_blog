@@ -12,9 +12,9 @@ Tengo 25 años y uno de mis hobbies es la lectura, ultimamente más orientado a 
 
 Mis expectativas para este proyecto son:
 
--Aprender los fundamentos de backend y aplicarlos
--Conseguir un portafolio que demuestre mis habilidades para poder ser contratado en alguna posición backend fullstack
--Terminar mi desarrollo como fullstack dev
+- Aprender los fundamentos de backend y aplicarlos
+- Conseguir un portafolio que demuestre mis habilidades para poder ser contratado en alguna posición backend fullstack
+- Terminar mi desarrollo como fullstack dev
 
 
 
