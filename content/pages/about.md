@@ -9,10 +9,10 @@ menu:
 
 Hola, aquí puedes saber un poco más de mí:
 
-> Friki de computadoras desde pequeña edad
-> Ex jugador profesional de osu y juegos arcade
-> Desarrollador Fullstack en proceso
-> Intento de cocinero profesional
+> - Friki de computadoras desde pequeña edad
+> - Ex jugador profesional de osu y juegos arcade
+> - Desarrollador Fullstack en proceso
+> - Intento de cocinero profesional
 
 Estos son algunos puntos destacables de mi persona
 mi nombre como ya saben es Leonardo y tengo 25 años
